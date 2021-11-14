@@ -1,4 +1,4 @@
-#This Project Has Been Made By Rohan Das
+#Author Rohan Das
 import sys
 import win32api,pythoncom
 import pyHook,os,time,random,smtplib,string,base64
